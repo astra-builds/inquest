@@ -23,6 +23,8 @@
 # misc
 .DS_Store
 *.pem
+# KDE folder metadata
+.directory
 
 # debug
 npm-debug.log*
